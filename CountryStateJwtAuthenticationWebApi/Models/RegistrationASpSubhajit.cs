@@ -4,7 +4,7 @@ namespace CountryStateJwtAuthenticationWebApi.Models
 {
     public class RegistrationASpSubhajit
     {
-        
+
         [Required(ErrorMessage = "User Name is required")]
         public string Username { get; set; }
 
@@ -14,10 +14,10 @@ namespace CountryStateJwtAuthenticationWebApi.Models
 
         [Required(ErrorMessage = "Password is required")]
         public string Password { get; set; }
-        [Required]
-        public string CountryName { get; set; }
 
-        [Required]
-        public string StateName { get; set; }
+        // ✅ Make these nullable to avoid API's automatic model validation failure
+        public string? CountryName { get; set; }
+
+        public string? StateName { get; set; }
     }
 }

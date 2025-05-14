@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnectionCachcadingWithWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bda4ac2d3ca1c7d18cb104b1c0764c13a3fe504")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnectionCachcadingWithWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnectionCachcadingWithWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

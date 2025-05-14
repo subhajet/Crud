@@ -1,106 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\Crud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\models\\registraionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\models\\registraionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\connectioncachcadingwithwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\countrystatejwtauthenticationwebapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\connectioncachcadingwithwebapi\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\connectioncachcadingwithwebapi\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\models\\satateaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\models\\satateaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\connectioncachcadingwithwebapi\\models\\registraionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\models\\registraionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\models\\countryaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\models\\countryaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\connectioncachcadingwithwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\models\\registrationaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\models\\registrationaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\connectioncachcadingwithwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\models\\responseaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\models\\responseaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\models\\loginmodelaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\models\\loginmodelaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\countrystatejwtauthenticationwebapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514083105_AddCountryAndStateToUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CountryStateJwtAuthenticationWebApi\\Migrations\\20250514083105_AddCountryAndStateToUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\countrystatejwtauthenticationwebapi\\models\\registrationaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\models\\registrationaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\authentication\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\countrystatejwtauthenticationwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\models\\userroleaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\models\\userroleaspsubhajit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\connectioncachcadingwithwebapi\\models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\models\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082509_CachDB10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082509_CachDB10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\connectioncachcadingwithwebapi\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\models\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082413_CachDB10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082413_CachDB10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\countrystatejwtauthenticationwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|d:\\training l\u0026k\\aspdotnetcore\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\connectioncachcadingwithwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CDC4C1-7D35-400C-A15D-DFD9290A6430}|ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj|solutionrelative:connectioncachcadingwithwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\countrystatejwtauthenticationwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\countrystatejwtauthenticationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|c:\\users\\lenovo\\source\\repos\\crud\\countrystatejwtauthenticationwebapi\\migrations\\20250514154322_cachdb10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC877AC-7CE5-47D2-AA72-AB266E3E70E4}|CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj|solutionrelative:countrystatejwtauthenticationwebapi\\migrations\\20250514154322_cachdb10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,8 +74,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 14,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
@@ -129,332 +97,197 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Views\\Login\\Register.cshtml",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Views\\Login\\Register.cshtml",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Views\\Login\\Register.cshtml*",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Views\\Login\\Register.cshtml*",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAGQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T08:59:51.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Controllers\\LoginController.cs*",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Controllers\\LoginController.cs*",
-              "ViewState": "AgIAALIAAAAAAAAAAAAUwMkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:39:43.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistraionViewModel.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Models\\RegistraionViewModel.cs",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Models\\RegistraionViewModel.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Models\\RegistraionViewModel.cs*",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Models\\RegistraionViewModel.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:39:09.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Views\\Login\\Login.cshtml",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T08:59:13.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StateModel.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Models\\StateModel.cs",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Models\\StateModel.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Models\\StateModel.cs",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Models\\StateModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:17:08.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenticateController.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Controllers\\AuthenticateController.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Controllers\\AuthenticateController.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Controllers\\AuthenticateController.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Controllers\\AuthenticateController.cs",
-              "ViewState": "AgIAALEAAAAAAAAAAAAUwM4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:06:36.887Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Controllers\\HomeController.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Program.cs",
+              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T12:12:53.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CountryModel.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Models\\CountryModel.cs",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Models\\CountryModel.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Models\\CountryModel.cs",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Models\\CountryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:15:29.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T16:45:07.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Models\\LoginViewModel.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:38:16.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T16:29:55.054Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "SatateAspSubhajit.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\SatateAspSubhajit.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Models\\SatateAspSubhajit.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\SatateAspSubhajit.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Models\\SatateAspSubhajit.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowAcAAAABAAAAAAAAAA==",
+              "Title": "StateModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Models\\StateModel.cs",
+              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Models\\StateModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Models\\StateModel.cs",
+              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Models\\StateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:30:11.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T16:29:40.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:29:20.41Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CountryAspSubhajit.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\CountryAspSubhajit.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Models\\CountryAspSubhajit.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\CountryAspSubhajit.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Models\\CountryAspSubhajit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Title": "CountryModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Models\\CountryModel.cs",
+              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Models\\CountryModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Models\\CountryModel.cs",
+              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Models\\CountryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:28:04.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T16:29:03.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\appsettings.json",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\appsettings.json",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T08:41:52.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Program.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\ConnectionCachcadingWithWebApi\\Program.cs",
-              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T09:06:11.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CountryStateJwtAuthenticationWebApi",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-14T08:42:27.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "RegistrationASpSubhajit.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\RegistrationASpSubhajit.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Models\\RegistrationASpSubhajit.cs",
               "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Models\\RegistrationASpSubhajit.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\RegistrationASpSubhajit.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Models\\RegistrationASpSubhajit.cs",
               "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Models\\RegistrationASpSubhajit.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:24:36.363Z",
+              "WhenOpened": "2025-05-14T16:21:27.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAkwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:01:08.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Views\\Login\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Views\\Login\\Register.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T16:00:53.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistraionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Models\\RegistraionViewModel.cs",
+              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Models\\RegistraionViewModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Models\\RegistraionViewModel.cs",
+              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Models\\RegistraionViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:59:01.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAAAAAIYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:58:57.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Title": "20250514154322_CachDB10.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514154322_CachDB10.cs",
+              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Migrations\\20250514154322_CachDB10.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514154322_CachDB10.cs",
+              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Migrations\\20250514154322_CachDB10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:43:22.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ConnectionCachcadingWithWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\ConnectionCachcadingWithWebApi\\appsettings.json",
+              "RelativeToolTip": "ConnectionCachcadingWithWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T08:41:38.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T15:42:24.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ResponseAspSubhajit.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\ResponseAspSubhajit.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Models\\ResponseAspSubhajit.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\ResponseAspSubhajit.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Models\\ResponseAspSubhajit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:24:59.956Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T15:42:16.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
+              "Title": "CountryStateJwtAuthenticationWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj",
+              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj",
+              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T15:36:02.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\appsettings.json",
+              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T15:25:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Crud\\CountryStateJwtAuthenticationWebApi\\Models\\ApplicationDbContext.cs",
               "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBEAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:17:21.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserRoleAspSubhajit.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\UserRoleAspSubhajit.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Models\\UserRoleAspSubhajit.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\UserRoleAspSubhajit.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Models\\UserRoleAspSubhajit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:25:25.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LoginModelAspSubhajit.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\LoginModelAspSubhajit.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Models\\LoginModelAspSubhajit.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Models\\LoginModelAspSubhajit.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Models\\LoginModelAspSubhajit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:24:07.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250514083105_AddCountryAndStateToUser.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514083105_AddCountryAndStateToUser.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Migrations\\20250514083105_AddCountryAndStateToUser.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514083105_AddCountryAndStateToUser.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Migrations\\20250514083105_AddCountryAndStateToUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:31:05.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Authentication\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Authentication\\ApplicationUser.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Authentication\\ApplicationUser.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Authentication\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:18:56.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20250514082509_CachDB10.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082509_CachDB10.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082509_CachDB10.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082509_CachDB10.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082509_CachDB10.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:25:09.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20250514082413_CachDB10.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082413_CachDB10.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082413_CachDB10.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082413_CachDB10.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Migrations\\20250514082413_CachDB10.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:24:13.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "CountryStateJwtAuthenticationWebApi\\Program.cs",
-              "ToolTip": "D:\\Training L\u0026K\\AspDotNetCore\\CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi\\Program.cs",
-              "RelativeToolTip": "CountryStateJwtAuthenticationWebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:16:22.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T15:22:12.282Z"
             }
           ]
         }
