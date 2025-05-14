@@ -314,7 +314,7 @@ namespace ConnectionCachcadingWithWebApi.Controllers
                 model.Countries = new List<CountryModel>();
             }
 
-            // Get states only if a country is selected
+            // Get states only if a country is selected  ok
             if (model.CountryId > 0)
             {
                 var selectedCountry = model.Countries.FirstOrDefault(c => c.CountryId == model.CountryId);
