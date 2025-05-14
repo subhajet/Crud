@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BK5gqluqPaNKZ+M36Q1E6ZxsqEs2bdJDA4/bpnEG5yo=",
+  "Source": "CountryStateJwtAuthenticationWebApi",
+  "BasePath": "_content/CountryStateJwtAuthenticationWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

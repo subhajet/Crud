@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CountryStateJwtAuthenticationWebApi\\CountryStateJwtAuthenticationWebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "ConnectionCachcadingWithWebApi\\ConnectionCachcadingWithWebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
